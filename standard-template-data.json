@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-01-15T01:45:06.560Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-01-15T02:29:38.699Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -71,7 +71,44 @@
         "description": "맛있는 개별바베큐를 즐겨보세요 !  ",
         "usageGuide": "- 숯+그릴  : 20,000원 (4인기준)\n- 숯 추가요금 :  1회 5,000원\n- 이용 장소 : 객실 테라스\n- 이용 시간 : 17:00~22:00\n※ 이용하기 최소 3시간 전 사전요청 필수",
         "displayOrder": 67,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586799-8modwna8bgf.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586799-9to2ow6j4mh.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586800-twzyyti977b.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586799-eccs6zc1k0r.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586799-wckv03ydsp.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586800-vaawci8a05.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "420be631-bffa-4e10-ba31-1c52b9b0be0c",
@@ -87,7 +124,38 @@
         "description": "간단한 스낵 및 음료가 구입 가능합니다 !  ",
         "usageGuide": "- 운영시간 : 09:00~23:00\n- 구매품목 : 주류, 음료, 아이스크림, 라면, 햇반, 과자, 담배, 잡화 등\n※운영시간 및 구매 품목은 운영 상황에 따라 변동될 수 있습니다.",
         "displayOrder": 69,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/56cc5480-f829-4c66-b1b2-0758fd068865/main/1768443588320-rumnb4il1wb.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/56cc5480-f829-4c66-b1b2-0758fd068865/main/1768443588320-2n1976qjrba.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/56cc5480-f829-4c66-b1b2-0758fd068865/main/1768443588320-hu1dx2ya0ji.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/56cc5480-f829-4c66-b1b2-0758fd068865/main/1768443588320-19f9ohynr7y.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/56cc5480-f829-4c66-b1b2-0758fd068865/main/1768443588320-bl455az7nx4.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "a25efab8-3117-4c7d-baee-8e059d75f5e1",
@@ -95,30 +163,35 @@
         "description": "맛있는 커피 한잔 하고 가세요 ! ",
         "usageGuide": "- 펜션 내 카페 보유\n- 음료 및 디저트 판매",
         "displayOrder": 70,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-452ziekvzxv.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-h3u0a8mbiyv.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-wigyzgndg9d.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-1pdkd621xab.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
-      {
-        "refundProcessingDays": 10,
-        "refundRate": 0
-      },
-      {
-        "refundProcessingDays": 9,
-        "refundRate": 90
-      },
-      {
-        "refundProcessingDays": 8,
-        "refundRate": 80
-      },
-      {
-        "refundProcessingDays": 7,
-        "refundRate": 70
-      },
-      {
-        "refundProcessingDays": 6,
-        "refundRate": 60
-      },
       {
         "refundProcessingDays": 5,
         "refundRate": 50
@@ -142,6 +215,26 @@
       {
         "refundProcessingDays": 0,
         "refundRate": 0
+      },
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 0
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
       }
     ],
     "refundSettings": {
@@ -755,11 +848,26 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "5bd548d7-bc85-4dfc-b43e-53691fecaf80",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/directions_hero/1768443258234-73p0u9vgnok.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2fc5874b-1803-4928-862f-36568dda5155",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/directions_hero/1768443289911-2a3zfa8syjz.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " 대중교통 이용방법",
+                "description": "고성 시외버스 터미널, 고성읍 시내까지 시외버스 이용\n도착 후 택시로 이동 → 목적지까지 약 15−25분 소요 \n(거리 약 10~15km 예상)"
               }
             }
           ]
@@ -768,10 +876,65 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "f846af41-72cc-49e0-a9dd-f1bb4e52e5b3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_hero/1768442671265-mdld0ctbmt.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "93dbd55a-ed39-48e8-bb4e-5f106a5366b9",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_about/1768442671266-77d46s072o4.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "cabee574-334c-4d88-afcf-b8e3d7df1324"
+                    }
+                  ],
+                  "blockId": "cabee574-334c-4d88-afcf-b8e3d7df1324",
+                  "description": "글램핑"
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "1f6d70c0-8d3a-482d-b921-51c414d1fe47",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_about/1768442671266-nt9joy5hky9.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "8a2cfaaf-2d93-4cd9-8f42-b701faa81f1a"
+                    }
+                  ],
+                  "blockId": "8a2cfaaf-2d93-4cd9-8f42-b701faa81f1a",
+                  "description": "풀빌라"
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "40000edf-8d65-4875-b026-09c088ff1a8d",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_about/1768442671266-r1e2pbykgxi.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "f00975ae-644c-4721-9359-e17106346928"
+                    }
+                  ],
+                  "blockId": "f00975ae-644c-4721-9359-e17106346928",
+                  "description": "카라반"
+                }
+              ]
             }
           ]
         },
@@ -782,12 +945,28 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "9227a2c4-0e90-4295-8998-feeb2f9e8772",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/reservation_hero/1768444171560-kv24vi4rjs.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
-                "images": [],
-                "description": ""
+                "title": " ",
+                "images": [
+                  {
+                    "id": "30a040b2-5c48-4d72-b7e5-df4874f22cb7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/reservation_about/1768444171560-mwo7adt3ink.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
               }
             }
           ]
