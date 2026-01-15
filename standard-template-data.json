@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-01-15T08:41:31.708Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-01-15T08:42:55.331Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -905,17 +905,24 @@
                 "title": "Preview",
                 "images": [
                   {
+                    "id": "b27df2a4-015b-46be-bcdb-497630b08e75",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556890-sfqgiv11s6.jpg",
+                    "sortOrder": 0,
+                    "description": "카라반존",
+                    "isSelected": true
+                  },
+                  {
                     "id": "c487d39a-748a-4d2e-979b-14e37a6c18ed",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556889-xyrwh0smgvf.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "글램핑존",
                     "isSelected": true
                   },
                   {
-                    "id": "b27df2a4-015b-46be-bcdb-497630b08e75",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556890-sfqgiv11s6.jpg",
-                    "sortOrder": 1,
-                    "description": "카라반존",
+                    "id": "2e504c0f-12bb-4c60-b52f-2e102fdb3111",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768464622826-5oe0jq1yy64.jpg",
+                    "sortOrder": 2,
+                    "description": "펜션",
                     "isSelected": true
                   },
                   {
@@ -926,37 +933,30 @@
                     "isSelected": true
                   },
                   {
-                    "id": "2e504c0f-12bb-4c60-b52f-2e102fdb3111",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768464622826-5oe0jq1yy64.jpg",
-                    "sortOrder": 3,
-                    "description": "펜션",
-                    "isSelected": true
-                  },
-                  {
                     "id": "c7f7d280-dec5-442b-89fb-c4d80b66c8d0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556891-h674571ntzv.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "놀이터",
                     "isSelected": true
                   },
                   {
                     "id": "d71f32b9-9e26-4154-971f-4d112ee76893",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556891-trj2sra1d8.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "매점",
                     "isSelected": true
                   },
                   {
                     "id": "39ac52c9-114b-4ef6-86bb-985f22b4dad0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556891-5d7mc2f8xfq.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 5,
                     "description": "카페",
                     "isSelected": true
                   },
                   {
                     "id": "3806b230-68e1-4a9f-99ee-0dfa24fdbc84",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556891-it72d4ozria.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 6,
                     "description": "오락시설",
                     "isSelected": true
                   }
