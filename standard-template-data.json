@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-01-15T08:43:40.415Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-01-15T08:44:47.452Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -923,13 +923,6 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768464622826-5oe0jq1yy64.jpg",
                     "sortOrder": 2,
                     "description": "펜션",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "552586ca-2c41-489a-b77d-b529ff04395b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_gallery/1768440556891-82v2yr88p3a.jpg",
-                    "sortOrder": 2,
-                    "description": "공연장",
                     "isSelected": true
                   },
                   {
