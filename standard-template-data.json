@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-01-15T03:16:13.854Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-01-15T03:19:23.370Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -68,7 +68,7 @@
       {
         "id": "7df625b9-9b1a-49bc-9ea1-19c33fa281d2",
         "name": "개별바베큐",
-        "description": "맛있는 개별바베큐를 즐겨보세요 !  ",
+        "description": "객실 앞에서 바로 즐기는 프라이빗 개별 바베큐 ! ",
         "usageGuide": "- 숯+그릴  : 20,000원 (4인기준)\n- 숯 추가요금 :  1회 5,000원\n- 이용 장소 : 객실 테라스\n- 이용 시간 : 17:00~22:00\n※ 이용하기 최소 3시간 전 사전요청 필수",
         "displayOrder": 67,
         "images": [
@@ -111,17 +111,42 @@
         ]
       },
       {
-        "id": "420be631-bffa-4e10-ba31-1c52b9b0be0c",
-        "name": "",
-        "description": "",
-        "usageGuide": "",
+        "id": "a25efab8-3117-4c7d-baee-8e059d75f5e1",
+        "name": "카페 림피드",
+        "description": "머무는 순간에도 즐길 수 있는 카페를 보유한 산들바다 !   ",
+        "usageGuide": "- 펜션 내 카페 보유\n- 음료 및 디저트 판매",
         "displayOrder": 68,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-452ziekvzxv.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-h3u0a8mbiyv.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-wigyzgndg9d.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-1pdkd621xab.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "56cc5480-f829-4c66-b1b2-0758fd068865",
         "name": "매점",
-        "description": "간단한 스낵 및 음료가 구입 가능합니다 !  ",
+        "description": "숙소 안에 준비된 매점으로 더 편안해지는 산들바다 ! ",
         "usageGuide": "- 운영시간 : 09:00~23:00\n- 구매품목 : 주류, 음료, 아이스크림, 라면, 햇반, 과자, 담배, 잡화 등\n※운영시간 및 구매 품목은 운영 상황에 따라 변동될 수 있습니다.",
         "displayOrder": 69,
         "images": [
@@ -158,37 +183,12 @@
         ]
       },
       {
-        "id": "a25efab8-3117-4c7d-baee-8e059d75f5e1",
-        "name": "카페 림피드",
-        "description": "맛있는 커피 한잔 하고 가세요 ! ",
-        "usageGuide": "- 펜션 내 카페 보유\n- 음료 및 디저트 판매",
+        "id": "420be631-bffa-4e10-ba31-1c52b9b0be0c",
+        "name": "공연장/놀이시설",
+        "description": "아이부터 어른까지 함께 즐기는 놀이시설 및 공연장 ! ",
+        "usageGuide": "[공연장]\n- 운영기간 : 추후 오픈 안내 예정\n- 운영시간 : 09:00~22:00\n- 이용요금 : 무료\n\n[놀이시설]\n- 운영시간 : 09:30~23:00\n- 갤러리 내 오락기 및 동전 노래방 이용가능 (소정의 이용료 발생)",
         "displayOrder": 70,
-        "images": [
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-452ziekvzxv.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-h3u0a8mbiyv.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-wigyzgndg9d.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-1pdkd621xab.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          }
-        ]
+        "images": []
       }
     ],
     "refundPolicies": [
@@ -773,7 +773,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "강과 바다가 만나는 고성의 자연"
+                "description": "강과 바다가    만나는    고성의 자연"
               },
               "gallery": {
                 "title": "Preview",
