@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-01-15T08:46:55.780Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-01-15T08:53:06.423Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -983,7 +983,7 @@
                     "id": "478cfbfb-35ab-43c1-bb0d-93b6adae6593",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/index_signature/1768464622827-ac2i366zp77.jpg",
                     "sortOrder": 3,
-                    "description": "카라반·글램핑·펜션까지\r\n취향에 맞게 고르는 객실 타입",
+                    "description": "카라반, 글램핑, 펜션까지\n취향에 맞게 고르는 객실 타입",
                     "isSelected": true
                   }
                 ],
