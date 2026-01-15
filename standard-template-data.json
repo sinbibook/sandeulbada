@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-01-15T03:53:06.617Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-01-15T04:02:59.136Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -70,7 +70,7 @@
         "name": "개별바베큐",
         "description": "객실 앞에서 바로 즐기는 프라이빗 개별 바베큐 ! ",
         "usageGuide": "- 숯+그릴  : 20,000원 (4인기준)\n- 숯 추가요금 :  1회 5,000원\n- 이용 장소 : 객실 테라스\n- 이용 시간 : 17:00~22:00\n※ 이용하기 최소 3시간 전 사전요청 필수",
-        "displayOrder": 67,
+        "displayOrder": 4,
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7df625b9-9b1a-49bc-9ea1-19c33fa281d2/main/1768443586799-8modwna8bgf.jpg",
@@ -115,7 +115,7 @@
         "name": "카페 림피드",
         "description": "머무는 순간에도 즐길 수 있는 카페를 보유한 산들바다 !   ",
         "usageGuide": "- 펜션 내 카페 보유\n- 음료 및 디저트 판매",
-        "displayOrder": 68,
+        "displayOrder": 5,
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a25efab8-3117-4c7d-baee-8e059d75f5e1/main/1768443611181-452ziekvzxv.jpg",
@@ -144,11 +144,56 @@
         ]
       },
       {
+        "id": "ab5fc832-482c-4774-b737-6aa0be40ae3f",
+        "name": "공용샤워실&화장실",
+        "description": "공용 샤워실과 화장실이 준비되어 있어 편리하게 이용하실 수 있습니다.",
+        "usageGuide": " ",
+        "displayOrder": 6,
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab5fc832-482c-4774-b737-6aa0be40ae3f/main/1768449595853-dou9ukp8z2r.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab5fc832-482c-4774-b737-6aa0be40ae3f/main/1768449595853-i2o33wr1i3o.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab5fc832-482c-4774-b737-6aa0be40ae3f/main/1768449595853-8ynxme82wzc.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab5fc832-482c-4774-b737-6aa0be40ae3f/main/1768449595853-wrea20jw9ws.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab5fc832-482c-4774-b737-6aa0be40ae3f/main/1768449595853-8hcql6hd8xw.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab5fc832-482c-4774-b737-6aa0be40ae3f/main/1768449595853-8euakqaoaj7.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
         "id": "56cc5480-f829-4c66-b1b2-0758fd068865",
         "name": "매점",
         "description": "숙소 안에 준비된 매점으로 더 편안해지는 산들바다 ! ",
         "usageGuide": "- 운영시간 : 09:00~23:00\n- 구매품목 : 주류, 음료, 아이스크림, 라면, 햇반, 과자, 담배, 잡화 등\n※운영시간 및 구매 품목은 운영 상황에 따라 변동될 수 있습니다.",
-        "displayOrder": 69,
+        "displayOrder": 67,
         "images": [
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/56cc5480-f829-4c66-b1b2-0758fd068865/main/1768443588320-rumnb4il1wb.jpg",
@@ -183,12 +228,97 @@
         ]
       },
       {
+        "id": "ab3bf6d3-1577-4827-98e0-e49f691d5044",
+        "name": "전시장",
+        "description": "노래방과 각종 오락시설이 구비되어 있습니다.",
+        "usageGuide": "[전시장]\n- 운영시간 : 09:30~23:00\n- 갤러리 내 오락기 및 동전 노래방 이용가능 (소정의 이용료 발생)",
+        "displayOrder": 68,
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab3bf6d3-1577-4827-98e0-e49f691d5044/main/1768449593537-o3mmwmg33wc.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab3bf6d3-1577-4827-98e0-e49f691d5044/main/1768449593537-8byzmm3wxo9.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab3bf6d3-1577-4827-98e0-e49f691d5044/main/1768449593537-kgltx41zp7.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ab3bf6d3-1577-4827-98e0-e49f691d5044/main/1768449593537-s3z5ppbc3zs.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "021c8613-2d82-4488-83a9-1dc0d9a62de4",
+        "name": "놀이터",
+        "description": "아이가 뛰어 놀수 있는 야외 잔디장과 놀이시설이 마련되어 있습니다.",
+        "usageGuide": " ",
+        "displayOrder": 69,
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021c8613-2d82-4488-83a9-1dc0d9a62de4/main/1768449591991-j6atuwrl0i8.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021c8613-2d82-4488-83a9-1dc0d9a62de4/main/1768449591991-ug0gb7eb2qd.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021c8613-2d82-4488-83a9-1dc0d9a62de4/main/1768449591991-dpc18xml15.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/021c8613-2d82-4488-83a9-1dc0d9a62de4/main/1768449591991-aflntbpfw7n.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
         "id": "420be631-bffa-4e10-ba31-1c52b9b0be0c",
-        "name": "공연장/놀이시설",
+        "name": "공연장",
         "description": "아이부터 어른까지 함께 즐기는 놀이시설 및 공연장 ! ",
-        "usageGuide": "[공연장]\n- 운영기간 : 추후 오픈 안내 예정\n- 운영시간 : 09:00~22:00\n- 이용요금 : 무료\n\n[놀이시설]\n- 운영시간 : 09:30~23:00\n- 갤러리 내 오락기 및 동전 노래방 이용가능 (소정의 이용료 발생)",
+        "usageGuide": "[공연장]\n- 운영기간 : 추후 오픈 안내 예정\n- 운영시간 : 09:00~22:00\n- 이용요금 : 무료\n\n",
         "displayOrder": 70,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/420be631-bffa-4e10-ba31-1c52b9b0be0c/main/1768449594892-lj0vwhkt7tm.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/420be631-bffa-4e10-ba31-1c52b9b0be0c/main/1768449594892-l4iio0u3k3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/420be631-bffa-4e10-ba31-1c52b9b0be0c/main/1768449594892-hlgf8a3klql.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
