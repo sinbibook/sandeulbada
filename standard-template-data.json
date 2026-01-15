@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-01-15T03:11:38.391Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-01-15T03:15:39.200Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -885,7 +885,7 @@
           "sections": [
             {
               "hero": {
-                "title": " ",
+                "title": " 산과 물길 사이, 쉼이 가장 먼저 도착하는 곳",
                 "images": [
                   {
                     "id": "f846af41-72cc-49e0-a9dd-f1bb4e52e5b3",
@@ -895,55 +895,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": "산이 감싸고, 물길이 흐르는 곳\n파도 없는 수변에서 만나는 진짜 쉼\n아무 일정 없이 머물러도 좋은 하루\n자연의 속도에 나를 맞추는 시간\n소리마저 잔잔해지는 저녁\n고성산들바다에서 쉬어갑니다"
               },
-              "about": [
-                {
-                  "title": " ",
-                  "images": [
-                    {
-                      "id": "93dbd55a-ed39-48e8-bb4e-5f106a5366b9",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_about/1768442671266-77d46s072o4.jpg",
-                      "sortOrder": 0,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "cabee574-334c-4d88-afcf-b8e3d7df1324"
-                    }
-                  ],
-                  "blockId": "cabee574-334c-4d88-afcf-b8e3d7df1324",
-                  "description": "글램핑"
-                },
-                {
-                  "title": "",
-                  "images": [
-                    {
-                      "id": "1f6d70c0-8d3a-482d-b921-51c414d1fe47",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_about/1768442671266-nt9joy5hky9.jpg",
-                      "sortOrder": 1,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "8a2cfaaf-2d93-4cd9-8f42-b701faa81f1a"
-                    }
-                  ],
-                  "blockId": "8a2cfaaf-2d93-4cd9-8f42-b701faa81f1a",
-                  "description": "풀빌라"
-                },
-                {
-                  "title": "",
-                  "images": [
-                    {
-                      "id": "40000edf-8d65-4875-b026-09c088ff1a8d",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/main_about/1768442671266-r1e2pbykgxi.jpg",
-                      "sortOrder": 2,
-                      "description": "",
-                      "isSelected": true,
-                      "blockId": "f00975ae-644c-4721-9359-e17106346928"
-                    }
-                  ],
-                  "blockId": "f00975ae-644c-4721-9359-e17106346928",
-                  "description": "카라반"
-                }
-              ]
+              "about": []
             }
           ]
         },
