@@ -1,8 +1,5 @@
 /* CDN Fonts */
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css');
-@import url('https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css');
-@import url('https://fonts.googleapis.com/css2?family=Chonburi&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
 
 /* Font Faces */
 @font-face {
@@ -16,7 +13,6 @@
 :root {
   --font-ko-main: 'YeongjuSeonbi', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
-  --font-en-main: 'Chonburi', serif;
   --color-primary: #F9F8F6;
   --color-secondary: #373737;
 }
