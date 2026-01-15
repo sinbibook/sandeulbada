@@ -1,0 +1,18 @@
+/* CDN Fonts */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css');
+
+/* Font Faces */
+@font-face {
+  font-family: 'YeongjuSeonbi';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/YEONGJUSeonbiTTF.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* CSS Variables */
+:root {
+  --font-ko-main: 'YeongjuSeonbi', sans-serif;
+  --font-ko-sub: 'Pretendard', sans-serif;
+  --color-primary: #F9F8F6;
+  --color-secondary: #373737;
+}
