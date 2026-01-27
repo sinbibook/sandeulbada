@@ -618,8 +618,16 @@ body.mobile-menu-open {
 }
 
 @media (max-width: 768px) {
+    .header { 
+        padding: 0;
+    }
+
+    .header.scrolled { 
+        padding: 0 0 10px 0;
+    }
     .header-content {
-        padding: 0 20px;
+        padding: 10px 0 0;
+        max-width: 90%;
     }
 
     .header-inner {

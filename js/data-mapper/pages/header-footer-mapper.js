@@ -104,37 +104,35 @@ class HeaderFooterMapper extends BaseDataMapper {
 
     /**
      * 예약 버튼에 realtimeBookingId 매핑 및 클릭 이벤트 설정
+     * Admin에서 전체 URL을 입력받아 그대로 사용
      */
     mapReservationButtons() {
         if (!this.isDataLoaded || !this.data.property) {
             return;
         }
 
-        // 예약 URL 상수
-        const RESERVATION_URL = 'https://www.bookingplay.co.kr/booking/1/';
+        // 전체 예약 URL 가져오기 (Admin에서 전체 링크 입력)
+        const realtimeBookingUrl = this.data.property.realtimeBookingId;
 
-        // realtimeBookingId 찾기
-        const realtimeBookingId = this.data.property.realtimeBookingId;
-
-        if (!realtimeBookingId) {
+        if (!realtimeBookingUrl) {
             return;
         }
 
         // 모든 예약 버튼에 클릭 이벤트 설정
         const reservationButtons = document.querySelectorAll('[data-booking-engine]');
         reservationButtons.forEach(button => {
-            button.setAttribute('data-realtime-booking-id', realtimeBookingId);
+            button.setAttribute('data-realtime-booking-url', realtimeBookingUrl);
             button.addEventListener('click', () => {
-                window.open(`${RESERVATION_URL}${realtimeBookingId}`, '_blank');
+                window.open(realtimeBookingUrl, '_blank');
             });
         });
 
         // 모바일 플로팅 예약 버튼에도 같은 링크 설정
         const floatingBookBtn = document.querySelector('.mobile-floating-book-btn');
         if (floatingBookBtn) {
-            floatingBookBtn.setAttribute('data-realtime-booking-id', realtimeBookingId);
+            floatingBookBtn.setAttribute('data-realtime-booking-url', realtimeBookingUrl);
             floatingBookBtn.addEventListener('click', () => {
-                window.open(`${RESERVATION_URL}${realtimeBookingId}`, '_blank');
+                window.open(realtimeBookingUrl, '_blank');
             });
         }
     }
@@ -489,11 +487,11 @@ class HeaderFooterMapper extends BaseDataMapper {
             ecommerceElement.textContent = businessInfo.eCommerceRegistrationNumber;
         }
 
-        // 저작권 정보 매핑
+        // 저작권 정보 매핑 - 신비서 하드코딩
         const copyrightElement = this.safeSelect('[data-footer-copyright]');
-        if (copyrightElement && businessInfo.businessName) {
+        if (copyrightElement) {
             const currentYear = new Date().getFullYear();
-            copyrightElement.textContent = `© ${currentYear} ${businessInfo.businessName}. All rights reserved.`;
+            copyrightElement.innerHTML = `<a href="https://www.sinbibook.com/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">© ${currentYear} 신비서. All rights reserved.</a>`;
         }
     }
 
@@ -611,34 +609,10 @@ if (typeof module !== 'undefined' && module.exports) {
     window.HeaderFooterMapper = HeaderFooterMapper;
 }
 
-// 자동 초기화 (MutationObserver 사용)
+// 자동 초기화 (headerFooterLoaded 이벤트 기반)
 if (typeof window !== 'undefined') {
-    function tryInitialize() {
-        const header = document.querySelector('.header');
-        const footer = document.querySelector('.footer');
-
-        if (header && footer) {
-            const headerFooterMapper = new HeaderFooterMapper();
-            headerFooterMapper.initialize();
-            return true;
-        }
-        return false;
-    }
-
-    // 이미 로드된 경우 즉시 초기화 시도
-    if (tryInitialize()) {
-        // 초기화 성공, 종료
-    } else {
-        // MutationObserver로 DOM 변경 감지
-        const observer = new MutationObserver(() => {
-            if (tryInitialize()) {
-                observer.disconnect(); // 초기화 성공 시 관찰 중지
-            }
-        });
-
-        observer.observe(document.body, {
-            childList: true,
-            subtree: true
-        });
-    }
+    document.addEventListener('headerFooterLoaded', function() {
+        const headerFooterMapper = new HeaderFooterMapper();
+        headerFooterMapper.initialize();
+    });
 }

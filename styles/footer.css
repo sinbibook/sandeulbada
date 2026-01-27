@@ -162,7 +162,7 @@
 
 .footer-bottom-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
@@ -192,6 +192,16 @@
 
 .divider {
     color: color-mix(in srgb, white 30%, transparent);
+}
+
+.copyright a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.copyright a:hover {
+    color: var(--color-primary);
 }
 
 /* Responsive */

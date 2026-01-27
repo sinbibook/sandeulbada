@@ -220,7 +220,7 @@
     justify-content: center;
     text-align: center;
     transform: none;
-    padding: 2rem;
+    padding: 1rem;
 }
 
 /* Index Page Hero Text Specific */
@@ -256,7 +256,7 @@
 /* Override for Index Page Hero Text */
 .hero-section .hero-content .hero-text {
     text-align: center !important;
-    padding: 2rem;
+    padding: 2rem 0;
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
