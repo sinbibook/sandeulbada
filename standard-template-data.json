@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-01-27T07:15:30.566Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-01-27T07:46:17.660Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -374,7 +374,7 @@
     "nameEn": "Goseong Sandeul Bada Glamping & Caravan & Pension",
     "domain": "sandeulbada.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10492",
-    "ybsId": ""
+    "ybsId": "28315"
   },
   "rooms": [
     {
@@ -2426,6 +2426,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
   }
 }
