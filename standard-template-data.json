@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.49.0",
-    "generatedAt": "2026-03-04T01:21:39.898Z",
+    "version": "1.50.0",
+    "generatedAt": "2026-03-26T08:32:13.703Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -14,7 +14,7 @@
     "address": "경남 고성군 동해면 외산로 330",
     "latitude": 35.0689579745254,
     "longitude": 128.449400358715,
-    "contactPhone": "010-3865-4817",
+    "contactPhone": "010-2255-1182",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -39,13 +39,13 @@
       "펜션"
     ],
     "businessInfo": {
-      "businessName": "산들바다관광농원",
-      "businessNumber": "495-25-00730",
-      "representativeName": "전하교",
-      "businessAddress": "경상남도 고성군 동해면 외산리 1122, 1123, 산45-14, 산46-1, 산41",
-      "businessPhone": "010-3865-4817",
+      "businessName": "농업회사법인 산들바다관광농원 주식회사",
+      "businessNumber": "879-87-03739",
+      "representativeName": "정환수",
+      "businessAddress": "경상남도 고성군 동해면 외산로 330",
+      "businessPhone": "010-2255-1182",
       "businessEmail": "0000@naver.com",
-      "businessType": "individual",
+      "businessType": "corporate",
       "businessCategory": "숙박",
       "eCommerceRegistrationNumber": ""
     },
@@ -365,8 +365,87 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "489159c7-7495-4823-8963-7f9b4676a80a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/thumbnail/1773122188201-3d9i6ru2w0m.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "81df0c9b-ea88-44d9-8342-500445f1413d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188201-yo2hrwjnjg.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "67a403d0-76c9-4bf0-8b63-4ff823dd68bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188201-en1kav0nnfc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "378346eb-5a15-4463-820d-d3ee4f23b9f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188201-mvpp2elpcp8.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "555e0b25-a19e-447d-881c-f205edef5265",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188202-mt2kku2nux.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8b3d5844-cb04-49ca-99a1-8191ebbd42d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188202-qwhpcps93c.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "99e64df7-e122-4733-8bd1-ebd43a6528b7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188202-ncvg39o5hy.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bde6de17-b8be-4125-8d90-4e657e940142",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188202-fxvl7mho8wj.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e90992d3-6332-4029-adee-5d70f8df3a35",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188202-3ejtzil303i.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "607a160b-e107-418f-b96b-b5c5a0bf11bc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188202-z8px8azdq5m.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "19daf463-1456-4ac4-871f-5c3affbfd2f5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/18654474-4162-447e-8077-47031303d8be/exterior/1773122188201-tb83bahvb9d.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
