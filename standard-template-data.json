@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.52.0",
-    "generatedAt": "2026-04-03T07:42:53.866Z",
+    "version": "1.53.0",
+    "generatedAt": "2026-04-03T08:03:42.442Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -1760,7 +1760,38 @@
             }
           ]
         },
-        "room": [],
+        "room": [
+          {
+            "id": "2c1c6efe-136e-4f0d-bd1a-ff00f3b094ac",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "dd36b1f4-cca3-48c0-97cb-5c77e08dc164",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
         "facility": [],
         "reservation": {
           "sections": [
