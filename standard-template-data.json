@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.55.0",
-    "generatedAt": "2026-05-08T03:55:09.667725743Z",
+    "version": "1.56.0",
+    "generatedAt": "2026-05-18T05:38:46.864799222Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -492,7 +492,7 @@
     ],
     "nameEn": "Goseong Sandeul Bada Glamping & Caravan & Pension",
     "domain": "sandeulbada.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10492",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1651229295",
     "ybsId": "28315"
   },
   "rooms": [
@@ -516,6 +516,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -577,6 +578,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -638,6 +640,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -699,6 +702,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -762,6 +766,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -826,6 +831,7 @@
         "퀸 베드",
         "온돌"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -889,6 +895,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -950,6 +957,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1013,6 +1021,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1074,6 +1083,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1135,6 +1145,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1196,6 +1207,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1257,6 +1269,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1318,6 +1331,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1380,6 +1394,7 @@
         "퀸 베드",
         "이층침대"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1441,6 +1456,7 @@
         "퀸 베드",
         "이층침대"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1502,6 +1518,7 @@
         "퀸 베드",
         "이층침대"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1563,6 +1580,7 @@
         "퀸 베드",
         "이층침대"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1624,6 +1642,7 @@
         "퀸 베드",
         "이층침대"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
