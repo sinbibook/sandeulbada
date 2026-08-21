@@ -451,11 +451,13 @@ class HeaderFooterMapper extends BaseDataMapper {
             return;
         }
 
-        // 전화번호 매핑
-        const footerPhone = this.safeSelect('[data-footer-phone]');
-        if (footerPhone && property.contactPhone) {
-            footerPhone.textContent = property.contactPhone;
-        }
+        // 전화번호 : common/footer.html 에 하드코딩(070-4364-9542) 처리하여 매핑 해제
+        // 복원 시 아래 주석 블록을 되살리고 footer.html 의 하드코딩 블록도 원복할 것
+        // // 전화번호 매핑
+        // const footerPhone = this.safeSelect('[data-footer-phone]');
+        // if (footerPhone && property.contactPhone) {
+        //     footerPhone.textContent = property.contactPhone;
+        // }
 
         // 대표자명 매핑
         const representativeNameElement = this.safeSelect('[data-footer-representative-name]');
