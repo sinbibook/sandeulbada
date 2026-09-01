@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.67.0",
-    "generatedAt": "2026-08-31T06:15:27.878023494Z",
+    "version": "1.68.0",
+    "generatedAt": "2026-09-01T06:46:31.083145645Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "18654474-4162-447e-8077-47031303d8be",
     "homepageId": "6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe"
@@ -3872,8 +3872,8 @@
       "title": "고성 산들바다 글램핑 카라반 펜션",
       "description": "뒤로는 푸른 산이 감싸고, 앞으로는 바다가 시원하게 펼쳐진 고성 산들바다 펜션은 글램핑, 카라반,펜션, 카페, 게임장, 공연장, 매점 등 모든 것이 준비되어 있습니다. ",
       "keywords": "고성산들바다, 경남산들바다, 고성산들바다펜션,고성산들바다글램핑,고성산들바다카라반,고성펜션,경남고성펜션,고성카라반,고성글램핑,고성숙소,경남숙소,경남글램핑,고성여행,고성오션뷰펜션,고성단체펜션,고성독채펜션,오션뷰글램핑",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -4350,6 +4350,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "theme": {
@@ -4381,8 +4387,8 @@
             "title": "",
             "images": [
               {
-                "id": "a1f16538-41db-4a01-b2c9-4ed6f55b6607",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/popup/1770778581831-29lc4kv8myv.jpg",
+                "id": "22d4d5ad-0538-4661-b0a6-e6b004b0c995",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6a3ca1a5-8326-483e-8359-9f7ef1cb1bbe/popup/1788245187534-icwacunxmn.png",
                 "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
